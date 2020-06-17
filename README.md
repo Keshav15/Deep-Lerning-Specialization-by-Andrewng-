@@ -1,2 +1,2 @@
-# Deep-Lerning-Specialization-by-Andrewng-
+# Deep-Lerning-Specialization by Deeplearning.ai-
 Total Specialization inDeep Learning
